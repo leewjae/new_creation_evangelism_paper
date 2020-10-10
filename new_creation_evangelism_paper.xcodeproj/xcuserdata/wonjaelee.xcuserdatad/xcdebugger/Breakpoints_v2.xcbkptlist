@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2B7D6631-9CD4-47EA-8681-E758841BEA1C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE7204A6-126E-4DCC-81C2-C3A379E3D105"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "new_creation_evangelism_paper/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "EE7204A6-126E-4DCC-81C2-C3A379E3D105 - 8bdba1b3440fb964"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "new_creation_evangelism_paper.ContentView.env_object.getter : new_creation_evangelism_paper.Env_object"
+                  moduleName = "new_creation_evangelism_paper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wonjaelee/Desktop/new_creation_evangelism_paper/new_creation_evangelism_paper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "EE7204A6-126E-4DCC-81C2-C3A379E3D105 - 1e3afe79a34b8445"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "new_creation_evangelism_paper.ContentView.$env_object.getter : SwiftUI.EnvironmentObject&lt;new_creation_evangelism_paper.Env_object&gt;.Wrapper"
+                  moduleName = "new_creation_evangelism_paper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wonjaelee/Desktop/new_creation_evangelism_paper/new_creation_evangelism_paper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "EE7204A6-126E-4DCC-81C2-C3A379E3D105 - dc17c10be4e4b53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "new_creation_evangelism_paper.ContentView.init() -&gt; new_creation_evangelism_paper.ContentView"
+                  moduleName = "new_creation_evangelism_paper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wonjaelee/Desktop/new_creation_evangelism_paper/new_creation_evangelism_paper/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
